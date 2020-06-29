@@ -4,3 +4,4 @@ Krabat is a fantasy novel about the eponymous Sorbian folk hero, written by Otfr
 * love interest
 * strong
 * courageous
+>Daß du mein Grab besuchst, ist nicht wichtig. Ich weiß, daß du an mich denkst – das ist wichtiger.
